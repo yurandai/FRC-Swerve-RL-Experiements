@@ -1,0 +1,12 @@
+Feedforward Neural Network Training Summary
+==========================================
+
+Input Features: 24
+Output Features: 3
+Training Samples: 59986
+Validation Samples: 15091
+Batch Size: 64
+Final Training Loss: 0.083334
+Final Validation Loss: 0.021106
+Best Validation Loss: 0.020281
+Epochs Trained: 160
